@@ -10,4 +10,5 @@ require (
 	github.com/jinzhu/gorm v1.9.16
 	github.com/joho/godotenv v1.3.0
 	github.com/lib/pq v1.9.0
+	github.com/securego/gosec v0.0.0-20200401082031-e946c8c39989 // indirect
 )
